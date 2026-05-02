@@ -6,7 +6,7 @@ The goal is simple: help users understand how vitamins and nutrients relate to b
 
 ---
 
-## 🚀 Concept
+##  Concept
 
 Many people read supplement labels without fully understanding what each vitamin does, where it acts in the body, or what safety considerations may apply.
 
@@ -26,7 +26,7 @@ AI generates structured insights
 
 ---
 
-## 🧠 How It Works
+##  How It Works
 
 1. **Scan or upload a supplement label**  
 2. **Extract nutrients using OCR**  
@@ -36,7 +36,7 @@ AI generates structured insights
 
 ---
 
-## 🖼️ Demo Preview
+##  Demo Preview
 
 | Input: Supplement Label | Output: 3D Body Visualization |
 |---|---|
@@ -44,7 +44,7 @@ AI generates structured insights
 
 ---
 
-## 🧩 Key Features
+##  Key Features
 
 - 3D visualization of supplement effects on:
   - Body parts
@@ -59,7 +59,7 @@ AI generates structured insights
 
 ---
 
-## 🏗️ Architecture
+##  Architecture
 
 ```text
 Frontend: React + 3D UI
@@ -72,13 +72,13 @@ Output: Structured JSON + 3D visualization
 
 ---
 
-## 🎥 Video Demo
+##  Video Demo
 
 https://www.youtube.com/watch?v=0inKRNMngcY
 
 ---
 
-## 🎯 Expected Impact
+##  Expected Impact
 
 VitaMap AI aims to:
 
@@ -89,6 +89,6 @@ VitaMap AI aims to:
 
 ---
 
-## ⚠️ Disclaimer
+##  Disclaimer
 
 This project is for **educational purposes only**. It does not provide medical diagnosis, treatment, or personalized medical advice. Users should consult qualified healthcare professionals for medical decisions.
