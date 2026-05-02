@@ -16,10 +16,10 @@ VitaMap AI transforms supplement labels into an interactive 3D human body visual
 ##  Example
 
 ### Input
-![Input](/input.png)
+![Input](input.png)
 
 ### Output
-![Output](/output.png)
+![Output](output.png)
 
 ##  Demo
 [(https://www.youtube.com/watch?v=0inKRNMngcY)](https://www.youtube.com/watch?v=0inKRNMngcY)
