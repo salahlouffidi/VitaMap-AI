@@ -41,8 +41,7 @@ AI generates structured insights
 
 | Input: Supplement Label | Output: 3D Body Visualization |
 |------------------------|------------------------------|
-| ![Input](./images/input.png) | ![Output](./images/output.png) |
-
+| <img src="images/input.png" width="300"> | <img src="images/output.png" width="300"> |
 ---
 
 ##  Key Features
