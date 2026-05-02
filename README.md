@@ -1,36 +1,36 @@
-# 🧠 VitaMap AI
+#  VitaMap AI
 
 VitaMap AI transforms supplement labels into an interactive **3D human body visualization** using OCR, AI, and Retrieval-Augmented Generation (RAG).
 
 ---
 
-## 🔍 How It Works
+##  How It Works
 
-1. 📸 Scan a supplement label  
-2. 🧾 Extract vitamins using OCR  
-3. 🤖 Analyze nutrients with AI + RAG  
-4. 🧍‍♂️ Visualize effects on a 3D human body  
+1.  Scan a supplement label  
+2.  Extract vitamins using OCR  
+3.  Analyze nutrients with AI + RAG  
+4.  Visualize effects on a 3D human body  
 
 ---
 
-## ✨ Key Features
+##  Key Features
 
-- 🧍‍♂️ 3D visualization of:
+- 3D visualization of:
   - Body parts  
   - Organs  
   - Systems  
   - Cellular functions  
 
-- ⚠️ Safety insights:
+-  Safety insights:
   - Deficiency risks  
   - Overdose warnings  
 
-- 📚 Educational explanations:
+-  Educational explanations:
   - Simple, visual, and easy to understand  
 
 ---
 
-## 🖼️ Demo
+##  Demo
 
 <table>
 <tr>
@@ -45,9 +45,9 @@ VitaMap AI transforms supplement labels into an interactive **3D human body visu
 
 ---
 
-## 🎥 Video Demo
+##  Video Demo
 
-👉 https://www.youtube.com/watch?v=0inKRNMngcY
+ https://www.youtube.com/watch?v=0inKRNMngcY
 
 ---
 
