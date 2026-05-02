@@ -39,11 +39,10 @@ AI generates structured insights
 
 ## Demo Preview
 
-**Input: Supplement Label**
-![Input](./images/input.png)
+| Input: Supplement Label | Output: 3D Body Visualization |
+|---|---|
+| ![Input](./images/input.png) | ![Output](./images/output.png) |
 
-**Output: 3D Body Visualization**
-![Output](./images/output.png)
 ---
 
 ##  Key Features
